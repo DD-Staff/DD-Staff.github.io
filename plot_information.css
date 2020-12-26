@@ -91,6 +91,7 @@
     font-family: helvetica!important;
     font-size: 13px!important;
     line-height: 100%;
+	text-align: justify;
 }
 
 .basic_title {
@@ -154,26 +155,26 @@
     font-variant: small-caps;
 }
 
-.arcadia_nm { color: #6f5b8b; }
-.arcadia_sml { border: 1px solid #6f5b8b; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.arcadia_sdets { border: 1px solid #6f5b8b; }
+#plane_arcadia .card_nm { color: #6f5b8b; }
+#plane_arcadia .card_sml { border: 1px solid #6f5b8b; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_arcadia .card_sdets { border: 1px solid #6f5b8b; }
 
-.elysium_nm { color: #5A7FAC; }
-.elysium_sml { border: 1px solid #5A7FAC; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.elysium_sdets { border: 1px solid #5A7FAC; }
+#plane_elysium .card_nm { color: #5A7FAC; }
+#plane_elysium .card_sml { border: 1px solid #5A7FAC; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_elysium .card_sdets { border: 1px solid #5A7FAC; }
 
-.kotus_nm { color: #c4bd51; }
-.kotus_sml { border: 1px solid #c4bd51; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.kotus_sdets { border: 1px solid #c4bd51; }
+#plane_kotus .card_nm { color: #c4bd51; }
+#plane_kotus .card_sml { border: 1px solid #c4bd51; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_kotus .card_sdets { border: 1px solid #c4bd51; }
 
-.mylaela_nm { color: #639513; }
-.mylaela_sml { border: 1px solid #639513; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.mylaela_sdets { border: 1px solid #639513; }
+#plane_mylaela .card_nm { color: #639513; }
+#plane_mylaela .card_sml { border: 1px solid #639513; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_mylaela .card_sdets { border: 1px solid #639513; }
 
-.rielian_nm { color: #D96CB1; }
-.rielian_sml { border: 1px solid #D96CB1; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.rielian_sdets { border: 1px solid #D96CB1; }
+#plane_rielian .card_nm { color: #D96CB1; }
+#plane_rielian .card_sml { border: 1px solid #D96CB1; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_rielian .card_sdets { border: 1px solid #D96CB1; }
 
-.zilard_nm { color: #902121; }
-.zilard_sml { border: 1px solid #902121; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
-.zilard_sdets { border: 1px solid #902121; }
+#plane_zilard .card_nm { color: #902121; }
+#plane_zilard .card_sml { border: 1px solid #902121; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+#plane_zilard .card_sdets { border: 1px solid #902121; }
