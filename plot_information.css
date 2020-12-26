@@ -1,0 +1,179 @@
+.character_card {
+    background-color: #151515;
+    width: 610px;
+    padding: 20px;
+    background-image: url(https://files.jcink.net/uploads/trialsandtribulationsrpg/635f3753-bgimage.png);
+}
+
+.small_image {
+	width: 212px;
+	height: 128px;
+	background-color: #f1f1f1; 
+	color: #363636; 
+	padding: 5px; 
+	background-position: center;
+	font-size: 10px;
+}
+
+.details_row {
+	width: 444px; 
+	padding: 3px; 
+	text-align: center; 
+	font-family: courier new; 
+	font-size: 10px; 
+	letter-spacing: -0.5px; 
+	font-style: italic; 
+	color: efefef; 
+	margin-bottom: 0px; 
+	text-transform: uppercase;
+}
+
+.char_name {
+    text-shadow: 1px 1px 1px #000;
+    width: 620px;
+    font-family: royal_Majesty;
+    font-size: 60px;
+    text-transform: lowercase;
+    background-position: center;
+    height: 40px;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 38px;
+}
+
+.character_name {
+    text-shadow: 1px 1px 1px #000;
+    width: 620px;
+    font-family: royal_Majesty;
+    font-size: 60px;
+    text-transform: lowercase;
+    background-image: url(https://files.jcink.net/uploads/trialsandtribulationsrpg/Site_Graphics/main_banner.png);
+    background-position: top center;
+    height: 185px;
+    position: absolute;
+    left: 156px;
+    padding-top: 220px;
+    padding-left: 27px;
+	letter-spacing: 1px;
+    color: #807253;
+}
+
+.tracker {
+	width: 348px;
+}
+
+.details_table {
+	text-align: center;
+	font-size: 12px;
+	width: 100%;
+}
+
+.sect_title {
+	height: 20px;
+	font-family: oswald;
+	font-size: 17px;
+	font-style: italic;
+}
+
+.sect_details {
+    height: 200px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    background-color: #101010;
+    width: 286px;
+    padding: 5px;
+    font-size: 11px!important;
+    padding: 8px;
+    vertical-align: top;
+    text-align: left;
+    color: #ccc;
+    overflow: auto;
+    font-family: helvetica!important;
+    font-size: 13px!important;
+    line-height: 100%;
+}
+
+.basic_title {
+    height: 20px;
+    font-family: oswald;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-style: italic;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-top: -3px;
+    margin-left: -2px;
+    background-color: #101010;
+    width: 108px;
+    font-size: 11px!important;
+    padding: 5px;
+    padding-top: 8px;
+    vertical-align: top;
+    text-align: center;
+    color: #ccc;
+    line-height: 100%;
+}
+
+.sect_details::-webkit-scrollbar {
+	width: 2px;
+	height: 2px;
+}
+	
+.sect_details::-webkit-scrollbar-thumb {
+	background: #353535;
+	border: 0px solid #ffffff;
+	border-radius: 0px;
+}
+
+.sect_details::-webkit-scrollbar-track {
+	background: #282828;
+	border: 0.5px solid #101010;
+	border-radius: 0px;
+}
+
+.sect_details::-webkit-scrollbar-corner {
+	background: transparent;
+}
+
+.claims-entry {
+    text-transform: none;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    font-family: helvetica;
+    font-variant: small-caps;
+}
+
+.claims-entry b {
+    text-transform: none;
+    line-height: 100%;
+    font-weight: normal;
+    font-family: helvetica;
+    font-size: 12px;
+    letter-spacing: 0px;
+    font-variant: small-caps;
+}
+
+.arcadia_nm { color: #6f5b8b; }
+.arcadia_sml { border: 1px solid #6f5b8b; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.arcadia_sdets { border: 1px solid #6f5b8b; }
+
+.elysium_nm { color: #5A7FAC; }
+.elysium_sml { border: 1px solid #5A7FAC; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.elysium_sdets { border: 1px solid #5A7FAC; }
+
+.kotus_nm { color: #c4bd51; }
+.kotus_sml { border: 1px solid #c4bd51; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.kotus_sdets { border: 1px solid #c4bd51; }
+
+.mylaela_nm { color: #639513; }
+.mylaela_sml { border: 1px solid #639513; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.mylaela_sdets { border: 1px solid #639513; }
+
+.rielian_nm { color: #D96CB1; }
+.rielian_sml { border: 1px solid #D96CB1; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.rielian_sdets { border: 1px solid #D96CB1; }
+
+.zilard_nm { color: #902121; }
+.zilard_sml { border: 1px solid #902121; background-size: 240px 216px; background-repeat: no-repeat; width: 224px; }
+.zilard_sdets { border: 1px solid #902121; }
