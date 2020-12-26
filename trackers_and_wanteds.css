@@ -1,4 +1,4 @@
-.character_card {
+r.character_card {
     background-color: #151515;
     width: 610px;
     padding: 20px;
@@ -51,6 +51,7 @@
     height: 127px;
     position: absolute;
     left: 300px;
+    /* border: 1px solid; */
     padding-top: 220px;
     padding-left: 27px;
     letter-spacing: 1px;
