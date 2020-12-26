@@ -43,18 +43,18 @@
 
 .character_name {
     text-shadow: 1px 1px 1px #000;
-    width: 620px;
+    width: 624px;
     font-family: royal_Majesty;
     font-size: 60px;
     text-transform: lowercase;
-    background-image: url(https://files.jcink.net/uploads/trialsandtribulationsrpg/Site_Graphics/main_banner.png);
     background-position: top center;
     height: 185px;
     position: absolute;
-    left: 156px;
+    left: 300px;
+    border: 1px solid;
     padding-top: 220px;
     padding-left: 27px;
-	letter-spacing: 1px;
+    letter-spacing: 1px;
     color: #807253;
 }
 
