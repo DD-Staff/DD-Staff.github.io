@@ -43,7 +43,7 @@
 
 .character_name {
     text-shadow: 1px 1px 1px #000;
-    width: 624px;
+    width: 652px;
     font-family: royal_Majesty;
     font-size: 60px;
     text-transform: lowercase;
@@ -53,7 +53,7 @@
     left: 300px;
     /* border: 1px solid; */
     padding-top: 220px;
-    padding-left: 27px;
+    padding-left: 0px;
     letter-spacing: 1px;
     color: #807253;
 }
